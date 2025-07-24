@@ -33,6 +33,12 @@ Este projeto consiste no desenvolvimento de uma plataforma virtual para uma farm
 
 ---
 
+## 🧪 Código Lambda
+
+Veja um exemplo funcional de Lambda em [`/src/exemplo-lambda/index.js`](./src/exemplo-lambda/index.js)
+
+---
+
 ## 📁 Organização do Projeto
 
 - `src/` – Códigos das funções Lambda (exemplos)
